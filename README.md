@@ -15,7 +15,7 @@
 </p>
 
 <!-- RUTA DE TU IMAGEN O BANNER -->
-<img src="https://cdn.openwebinars.net/media/featured_images/poo-java-interfaces.webp" alt="POO Java Exercises Preview" width="100%" height = 300px style="border-radius: 8px; object-fit: cover;">
+<img src="assets/java-banner.png" alt="POO Java Exercises Preview" width="100%" height = 300px style="border-radius: 8px; object-fit: cover;">
 
 ---
 
