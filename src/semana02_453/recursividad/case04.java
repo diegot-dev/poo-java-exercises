@@ -7,7 +7,8 @@ public class case04 {
         System.out.println(txt);
     }
     
-    public static void browseFolder(File folder) {
+    public static void browseFolder(File folder)
+    {
         File[] archives = folder.listFiles();
         if (archives == null) print(folder.getName());
         for (File archive : archives) {
